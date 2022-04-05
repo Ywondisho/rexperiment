@@ -19,7 +19,7 @@ length(samp)
 ```
 
 # Introduction
-Welcome to R MarkDown trainig
+Welcome to R MarkDown trainig session. This session of the training will help trainees to undertand the basics of R MarkDown and how it is useful for Data Science.
 
 ## Overview
 This training is important to generate **documents** with required formatting.
