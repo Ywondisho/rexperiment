@@ -1,5 +1,5 @@
 ---
-title: "Wonde's First RMarkDown Document"
+title: "First RMarkDown Document"
 output:
   pdf_document: default
 #  word_document: default
