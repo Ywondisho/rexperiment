@@ -7,6 +7,7 @@ output:
 ---
 
 This is the first R MarkDown Document we created at CGC under the guidance of Jeff
+The file contains technique of creating document with R code 
 
 # Section 1
 
@@ -23,6 +24,7 @@ Welcome to R MarkDown trainig session. This session of the training will help tr
 
 ## Overview
 This training is important to generate **documents** with required formatting.
+The settings are automatically included 
 
 ### Specific Objectives
 The specific objective is to look into different *formatting* techniques to produce standard documents as a report. The technique will allow R codes to be integrated and generate the required result. 
